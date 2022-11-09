@@ -1,1 +1,1 @@
-# thumbashostingv2
+# thumbashosting
